@@ -3,7 +3,7 @@
 
 ## vim
 ### .vimrc-python
-```markdown
+```vim
 " enable syntax highlighting
 syntax enable
 
